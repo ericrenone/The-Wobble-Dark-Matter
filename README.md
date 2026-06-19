@@ -1782,8 +1782,6 @@ What could go wrong?
 
 ## Contact and Contributing
 
-**For research collaboration:**
-Contact: ericrenone@emergent-reality-ai.org
 
 **For code and data:**
 - GitHub repositories: github.com/ericrenone/wobble-dark-matter
